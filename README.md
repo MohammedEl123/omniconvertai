@@ -1,5 +1,3 @@
-Here is a concise README.md you can use and customize for your repo:
-
 OmniConvert AI
 OmniConvert AI is an all‑in‑one file conversion assistant that lets you convert and process images, audio, code/text, and PDF documents using a mix of local conversion and Gemini 3–powered AI features.
 ​
