@@ -1,0 +1,5 @@
+{
+  "name": "OmniConvert AI",
+  "description": "An intelligent all-in-one file conversion tool powered by Google Gemini. Convert images, PDFs, transcribe audio, and transform code or text documents with context-aware AI.",
+  "requestFramePermissions": []
+}
